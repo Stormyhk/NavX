@@ -24,7 +24,7 @@ while True:
 
     #live annotation
     annotated = results[0].plot()
-    cv2.imshow("ESP32 Vision 🧠", annotated)
+    cv2.imshow("LIVE", annotated)
 
     #labels
     classes = results[0].names
