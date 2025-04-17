@@ -12,7 +12,4 @@ This repository was created for a robotics project in **ENG 4060C**.
 - Detect and identify objects using computer vision or sensors
 - Demonstrate integration between embedded and high-level systems
 
-## 👥 Team Members
-- Yama Jiang 
-- Hailey Kristona  
-- [Teammate Name 3]    
+
